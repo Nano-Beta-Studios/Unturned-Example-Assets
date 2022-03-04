@@ -1,0 +1,1 @@
+These models can be used for skybox trees with normals to match the nearby normals. Centerlit works well for birch/maple, underlit works for pine and sidelit works for dead trees.
